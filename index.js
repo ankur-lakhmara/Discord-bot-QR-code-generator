@@ -21,3 +21,5 @@ readline.question("Please enter the text for generating QR code : ", (data) => {
   });
   readline.close();
 });
+
+//you can also use the prompt for the taking input

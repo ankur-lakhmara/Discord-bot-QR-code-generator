@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot-qr-code-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^8.8.0",
+    "googleapis": "^118.0.0",
+    "prompt-sync": "^4.2.0",
+    "qrcode": "^1.5.3"
+  }
+}
